@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: biblioteca_dio_lab
